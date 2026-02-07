@@ -33,6 +33,7 @@ export function Footer() {
           <Heart className="w-3 h-3 inline-block text-accent fill-accent mx-1" />{" "}
           para ti Cuervito • {currentYear}
         </p>
+        <p className="text-xl mt-6 mb-6 text-muted-foreground font-bold">Ahora cierra los ojos y preparate para oler tu regalo</p>
       </div>
     </footer>
   )
