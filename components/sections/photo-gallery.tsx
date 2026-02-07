@@ -114,20 +114,26 @@ const photos = [
     alt: "Palacio de Matrimonio",
     caption: "El día que nos casamos, el día más feliz de mi vida, el día que se hizo realidad nuestro sueño de estar juntos para siempre, que nos prometimos fidelidad y compañerismo eterno. Te amo Cuervito"
   },
-      {
+        {
     id:19,
+    src: "/photos/Salidapostcasamiento.jpeg",
+    alt: "Salida Post Casamiento",
+    caption: "La hartera de pizza y comida que nos dimos luego de casarnos, gracias a tu padre y su inmensa cartera jjj"
+  },
+      {
+    id:21,
     src: "/photos/BesoBoda.jpeg",
     alt: "Beso Fotos de Boda",
     caption: "Nuestro beso en las fotos de boda, y toda la aventura de la sesión de fotos"
   },
       {
-    id:20,
+    id:22,
     src: "/photos/Boda.jpeg",
     alt: "Fotos de Boda",
     caption: "Que cansado fue la sesión verdad, pero valió la pena cada minuto, cada pose, cada foto, porque el resultado fue increíble, y ahora tenemos estas hermosas fotos para recordar ese día tan especial"
   },
       {
-    id:21,
+    id:23,
     src: "/photos/FotoBodaFav.jpeg",
     alt: "Foto Favorita de Boda",
     caption: "Esta ya sabes que es mi foto favorita de la sesión, la miro sin parar. Me encanta como nos vemos"
